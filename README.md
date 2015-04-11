@@ -17,3 +17,23 @@ O nosso plugin conta com os mais avançados sistemas de segurança, novos evento
  - Sistema de proteção contra ataques flood no gameserver.
  - Sistema de proteção contra inject EXDB.
  - Sistema de proteção contra Shadow Bug.
+
+# Correções
+ - PK BUG.
+ - Potion BUG.
+ - Removido personal ID Char / guild / WareHouse.
+ - PartyZen bug.
+ - Autoridade nick WebZen.
+ - AlreadyRunning gameserver.
+ - NoStandBy DataServer.
+ - SocketSerial.
+ - DestroyGIocp.
+ - InvalidSocket.
+ - ProtocolError.
+ - HackReporting.
+ - ErrorL2Index.
+ - Error-L1 : Socket Serial
+ - Itens com level +15.
+ - Itens com options +28.
+ - error-L1 : CloseClient.
+ 
