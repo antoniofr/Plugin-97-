@@ -18,3 +18,4 @@ O nosso plugin conta com os mais avançados sistemas de segurança, novos evento
  - Sistema de proteção contra inject EXDB.
  - Sistema de proteção contra Shadow Bug.
 
+ - EE
