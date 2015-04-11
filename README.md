@@ -23,6 +23,7 @@ O nosso plugin conta com os mais avançados sistemas de segurança, novos evento
  - Potion BUG.
  - Removido personal ID Char / guild / WareHouse.
  - PartyZen bug.
+ - 
  - Autoridade nick WebZen.
  - AlreadyRunning gameserver.
  - NoStandBy DataServer.
