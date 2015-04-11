@@ -5,7 +5,7 @@ Antes de iniciar esse projeto via como muitos administradores abriam seus servid
 
 O nosso plugin conta com os mais avançados sistemas de segurança, novos eventos, sistemas de automatização de eventos, correções de vários bugs da própia versão e um diferencial que é o preço.
 
-# Características
+# Proteções
  - Sistema de proteção contra speed hacker.
  - Sistema de proteção contra zumbi hacker.
  - Sistema de proteção contra Twisting Slash Bug.
@@ -17,5 +17,3 @@ O nosso plugin conta com os mais avançados sistemas de segurança, novos evento
  - Sistema de proteção contra ataques flood no gameserver.
  - Sistema de proteção contra inject EXDB.
  - Sistema de proteção contra Shadow Bug.
-
- - EE
